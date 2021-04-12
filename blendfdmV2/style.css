@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
 html,body{
     background: #a8a8a8;
+    background-image: url("https://s17026.pcdn.co/wp-content/uploads/sites/9/2017/06/AdobeStock_97559781.jpeg");
+    background-size: cover;
     font-family: 'Poppins', sans-serif;
 }
 
